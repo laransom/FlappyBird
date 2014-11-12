@@ -15,6 +15,8 @@
 		5824DF1A1A12F4AF004ABB6E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5824DF191A12F4AF004ABB6E /* Images.xcassets */; };
 		5824DF1D1A12F4AF004ABB6E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5824DF1B1A12F4AF004ABB6E /* LaunchScreen.xib */; };
 		5824DF291A12F4AF004ABB6E /* FlappyBirdDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5824DF281A12F4AF004ABB6E /* FlappyBirdDemoTests.swift */; };
+		58E44F931A12F96200F96E6F /* GreenGradientRectangle-LtGreen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 58E44F911A12F96200F96E6F /* GreenGradientRectangle-LtGreen.jpg */; };
+		58E44F941A12F96200F96E6F /* pterodactyl2.png in Resources */ = {isa = PBXBuildFile; fileRef = 58E44F921A12F96200F96E6F /* pterodactyl2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		5824DF221A12F4AF004ABB6E /* FlappyBirdDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlappyBirdDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5824DF271A12F4AF004ABB6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5824DF281A12F4AF004ABB6E /* FlappyBirdDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyBirdDemoTests.swift; sourceTree = "<group>"; };
+		58E44F911A12F96200F96E6F /* GreenGradientRectangle-LtGreen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "GreenGradientRectangle-LtGreen.jpg"; sourceTree = "<group>"; };
+		58E44F921A12F96200F96E6F /* pterodactyl2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pterodactyl2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,7 @@
 				5824DF161A12F4AF004ABB6E /* Main.storyboard */,
 				5824DF191A12F4AF004ABB6E /* Images.xcassets */,
 				5824DF1B1A12F4AF004ABB6E /* LaunchScreen.xib */,
+				58E44F901A12F96200F96E6F /* Images */,
 				5824DF0C1A12F4AF004ABB6E /* Supporting Files */,
 			);
 			path = FlappyBirdDemo;
@@ -116,6 +121,16 @@
 				5824DF271A12F4AF004ABB6E /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		58E44F901A12F96200F96E6F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				58E44F911A12F96200F96E6F /* GreenGradientRectangle-LtGreen.jpg */,
+				58E44F921A12F96200F96E6F /* pterodactyl2.png */,
+			);
+			name = Images;
+			path = ../../../../Desktop/Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,7 +215,9 @@
 			files = (
 				5824DF1D1A12F4AF004ABB6E /* LaunchScreen.xib in Resources */,
 				5824DF1A1A12F4AF004ABB6E /* Images.xcassets in Resources */,
+				58E44F931A12F96200F96E6F /* GreenGradientRectangle-LtGreen.jpg in Resources */,
 				5824DF111A12F4AF004ABB6E /* GameScene.sks in Resources */,
+				58E44F941A12F96200F96E6F /* pterodactyl2.png in Resources */,
 				5824DF181A12F4AF004ABB6E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -413,6 +430,7 @@
 				5824DF2E1A12F4AF004ABB6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5824DF2F1A12F4AF004ABB6E /* Build configuration list for PBXNativeTarget "FlappyBirdDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +439,7 @@
 				5824DF311A12F4AF004ABB6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

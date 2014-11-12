@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlappyBirdDemo/GameScene.swift"
+            timestampString = "437451436.309036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.bird.setter : ObjectiveC.SKSpriteNode"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452056.599328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.bird.materializeForSet : ObjectiveC.SKSpriteNode"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452056.599688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)(size : C.CGSize) -&gt; FlappyBirdDemo.GameScene"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452056.600138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)() -&gt; FlappyBirdDemo.GameScene"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452056.600454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;FlappyBirdDemo.GameScene&gt;"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452056.600777"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlappyBirdDemo/GameScene.swift"
+            timestampString = "437451437.44926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GameScene"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.bird.setter : ObjectiveC.SKSpriteNode"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452121.788679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.bird.materializeForSet : ObjectiveC.SKSpriteNode"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452121.788972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)(size : C.CGSize) -&gt; FlappyBirdDemo.GameScene"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452121.789263"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)() -&gt; FlappyBirdDemo.GameScene"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452121.790663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlappyBirdDemo.GameScene.init (FlappyBirdDemo.GameScene.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;FlappyBirdDemo.GameScene&gt;"
+                  moduleName = "FlappyBirdDemo"
+                  urlString = "file:///Users/laransom/Dropbox/swift/FlappyBirdDemo/FlappyBirdDemo/GameScene.swift"
+                  timestampString = "437452121.791016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
